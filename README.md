@@ -3,7 +3,8 @@
 In order to run this app follow these steps,
 1. You can simply clone the project and run it that would be the eassiest way.
 2. In total it has 7 components as 1.ArticleCard, 2. ArticleDetail 3. ArticleSummay 4. CategoriesDropdown 5. SearchBar 6. Pagination and 7. CategoryFilter if you create components using these following names there shouldn't be any error, 
-3 It has two pages as HomePage and DetailPage then it redux file as store.js on the same directory as App.js file and another redux file for managening states and API calls and actions is features/articles/articlesSlice follow these files structures and there wont be any error related to importing and do check the tailwind config file.
+3. It has two pages as HomePage and DetailPage then it redux file as store.js on the same directory as App.js file and another redux file for managening states and API calls and actions is features/articles/articlesSlice follow these files structures and there wont be any error related to importing and do check the tailwind config file.
+4. It has files or images in Public folder since all the data coming from the API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
